@@ -15,7 +15,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy部署更新'
-git config user.name aixiudeni
+git config user.name ixiudeni
 git config user.email 1450798115@qq.com
 
 # 如果发布到 https://<USERNAME>.github.io
