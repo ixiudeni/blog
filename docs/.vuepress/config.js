@@ -19,6 +19,16 @@ module.exports = {
         text: '前端面试之道',
         link: '/interview/'
       }
-    ]
+    ],
+    sidebar: {
+      '/interview/': ['interview/']
+    }
+  },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@images': '../images'
+      }
+    }
   }
 }

@@ -4,7 +4,7 @@ heroImage: /logo.jpg
 heroText: 爱秀的你
 tagline: 个人博客
 actionText: 开始 →
-actionLink: /zh/guide/
+actionLink: /interview/
 features:
 - title: A Blog
   details: 个人博客。
